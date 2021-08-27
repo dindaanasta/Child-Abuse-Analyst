@@ -1,2 +1,3 @@
 # Child-Abuse-Analyst
-an analysis of child abuse that occurred in the province of North Sumatra
+project ini adalah project pertama penulis yang diupload ke dalam github. 
+Analisis kekerasan anak di provinsi sumatera utara bertujuan untuk memprediksi jenis kelamin anak yang memiliki kemungkinan besar menjadi korban kekerasan dikemudian hari dengan mengasumsikan korban sudah menjadi korban kekerasan baik fisik, psikis, penelantaran, trafficking, dan seksual dimana korban berada di rentang usia 0 tahun hingga 17 tahun dan sudah mendapatkan pelayanan khusus sebagai bentuk treatment yang diberikan oleh sebuah institusi atau organisasi. analisis kekerasan ini akan menghasilkan persentasi dan jumlah korban yang diprediksi menjadi korban kekerasan yang disajikan dalam bentuk diagram pie. 
