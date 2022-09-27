@@ -16,5 +16,9 @@ From the picture above, it can be seen that the highest type of violence that of
 
 ![image](https://user-images.githubusercontent.com/71063726/192523952-f478254f-510e-4c0f-8b4b-6321b4f68081.png)
 
+According the picture above, from 2017 to 2019, boys and girls experienced child abuse at an early age, from 0 to 17 years. In addition, the highest cases were in 2018, with an age range of 13-17 years, up to 525 cases.
+
+![image](https://user-images.githubusercontent.com/71063726/192524989-6e399d63-b72b-4110-b437-42aca1989005.png)
+
 The visualization above shows that the majority of victims of child violence are girls and the highest cases are led by sexual violence with a total of 1305 cases.
 
