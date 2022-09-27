@@ -22,3 +22,19 @@ According the picture above, from 2017 to 2019, boys and girls experienced child
 
 The visualization above shows that the majority of victims of child violence are girls and the highest cases are led by sexual violence with a total of 1305 cases.
 
+---
+
+## MODELLING
+The modelling process is performed using the Naïve Bayes algorithm to predict the possible gender and age range of abused children. 
+This modeling requires 3 types of ratios, which is 80:20, 70:30, and 60:40.
+
+- Ratio 80:20
+![image](https://user-images.githubusercontent.com/71063726/192535509-51dec08a-3968-487b-abc2-22141ed96a5b.png)
+
+- Ratio 70:30
+![image](https://user-images.githubusercontent.com/71063726/192535721-77f120ca-e1db-4fda-abf9-7556eedb3ccc.png)
+
+- Ratio 60:40
+![image](https://user-images.githubusercontent.com/71063726/192535873-0e29cf16-be2a-4da3-8025-f860a54f9f39.png)
+
+From the three images above, it can be seen that the highest recall value is at a ratio of 60:40 with a percentage of 91%. This means that the model is effective in predicting cases of child abuse in the province of North Sumatra in the future.
